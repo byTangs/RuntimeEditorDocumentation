@@ -9,3 +9,5 @@
 3.play game using standalone mode 
 ![image](https://user-images.githubusercontent.com/34257233/179438769-e58406c0-77f8-42db-a5bf-465fcb7e9eca.png)
 
+
+NOTE: Not Support PIE Mode
