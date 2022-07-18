@@ -3,12 +3,9 @@
 1.Enable RuntimeEditorLite Plugin
 ![image](https://user-images.githubusercontent.com/34257233/179382360-536202bb-4542-480d-8afb-98f019b6365c.png)
 
-2.Set UseBorderlesssindow=true in project Settings
-![image](https://user-images.githubusercontent.com/34257233/179382386-f55953f0-0146-4e0f-ac14-582e28743f6d.png)
+2.Enabel Runtime editor lite in project setting;
+![image](https://user-images.githubusercontent.com/34257233/179438727-c24ff41d-c17b-4310-9036-618232fb1c78.png)
 
-3.open project config folder, add The following text to DefaultEngine.ini
+3.play game using standalone mode 
+![image](https://user-images.githubusercontent.com/34257233/179438769-e58406c0-77f8-42db-a5bf-465fcb7e9eca.png)
 
-[/Script/Engine.Engine]
-GameEngine=/Script/RuntimeEditorLite.RuntimeEditorGameEngine
-
-4.Package The Project Or StartWith Game in visual studio
