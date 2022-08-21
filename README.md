@@ -11,7 +11,7 @@
 you can add obejct wicth you want to gather meta data
 
 4.Gather object meta data ,click button to gather meta data ;
-![image](https://user-images.githubusercontent.com/34257233/185781761-c3a0f532-f5ad-45ac-8633-5645e8cd60de.png)
+![image](https://user-images.githubusercontent.com/34257233/185781940-22ebe382-3cd1-4437-9ede-cd1aea3bbc08.png)
 
 ![image](https://user-images.githubusercontent.com/34257233/185781686-cccb39eb-a7b4-4fc8-99d3-7ca020eed687.png)
 
@@ -22,5 +22,8 @@ Note : you need Save BP_RuntimeMetaData manual
 
 5.play game using standalone mode 
 ![image](https://user-images.githubusercontent.com/34257233/179438769-e58406c0-77f8-42db-a5bf-465fcb7e9eca.png)
+
+
+![image](https://user-images.githubusercontent.com/34257233/185781921-08edae36-00d6-4776-9d97-455f80a8ca13.png)
 
 
