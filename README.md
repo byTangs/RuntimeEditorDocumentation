@@ -13,8 +13,6 @@ you can add obejct wicth you want to gather meta data
 4.Gather object meta data ,click button to gather meta data ;
 ![image](https://user-images.githubusercontent.com/34257233/185781940-22ebe382-3cd1-4437-9ede-cd1aea3bbc08.png)
 
-![image](https://user-images.githubusercontent.com/34257233/185781686-cccb39eb-a7b4-4fc8-99d3-7ca020eed687.png)
-
 ![image](https://user-images.githubusercontent.com/34257233/185780991-cd2777cb-1738-4bbd-944f-348c577b399f.png)
 
 Note : you need Save BP_RuntimeMetaData manual
