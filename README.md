@@ -14,7 +14,8 @@
 ![image](https://user-images.githubusercontent.com/34257233/185780361-dba3a2be-1ea2-475a-a9b1-0a54863b4c4f.png)
 you can add obejct wicth you want to gather meta data
 
-5.Gather object meta data ,click button to gather meta data 
+5.Gather object meta data ,click button to gather meta data ;
+
 ![image](https://user-images.githubusercontent.com/34257233/185781686-cccb39eb-a7b4-4fc8-99d3-7ca020eed687.png)
 
 ![image](https://user-images.githubusercontent.com/34257233/185780991-cd2777cb-1738-4bbd-944f-348c577b399f.png)
