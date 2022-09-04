@@ -25,3 +25,19 @@ Note : you need Save BP_RuntimeMetaData manual
 ![image](https://user-images.githubusercontent.com/34257233/185781921-08edae36-00d6-4776-9d97-455f80a8ca13.png)
 
 
+
+
+Updated_V0.2 ------ Runtime Property Editor Updated
+
+1.TArray,TSet,TMap Supported
+
+![image](https://user-images.githubusercontent.com/34257233/188293798-32ab0fc8-0936-4c00-a63d-7b4930ae1de3.png)
+![image](https://user-images.githubusercontent.com/34257233/188293806-922c9b32-1183-4fe7-8d91-a8761f422d60.png)
+
+2.FColor,FLinearColor Supported
+![image](https://user-images.githubusercontent.com/34257233/188293848-4d4bb844-d313-4dcb-8b21-9856fafc6a54.png)
+![image](https://user-images.githubusercontent.com/34257233/188293851-39413286-3dcf-4d72-9521-515e8a7c0f5f.png)
+
+3.Properties support arbitrary nested relationships
+![image](https://user-images.githubusercontent.com/34257233/188293871-65300658-8163-462c-bb08-6e9e834c545c.png)
+
