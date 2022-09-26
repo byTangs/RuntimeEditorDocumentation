@@ -42,3 +42,18 @@ Updated_V0.2 ------ Runtime Property Editor Updated
 
 ![image](https://user-images.githubusercontent.com/34257233/188293871-65300658-8163-462c-bb08-6e9e834c545c.png)
 
+
+
+
+2022-9-26 更新缓慢说明：目前公司工作比较繁忙，所以导致插件更新缓慢;后续会加快更新进度；
+
+目前的暂定的RoadMap：
+Updated_V0.3   属性编辑器更新，增加UObject属性设置.（目前已完成，还未提交到商场）
+Updated_V0.4   属性编辑器支持多选
+
+Updated_V0.5   运行时坐标轴
+Updated_V0.6   运行时多视口，模型动画预览窗口
+Updated_V0.7   运行时支持官方序列化，可能会支持运行时保存uasset功能
+
+
+Updated_V0.8   运行时再次打包工程
